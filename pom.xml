@@ -67,7 +67,7 @@
     <properties>
         <main.class>io.jenkins.infra.repository_permissions_updater.ArtifactoryPermissionsUpdater</main.class>
         <java.level>8</java.level>
-        <jackson.version>2.11.0</jackson.version>
+        <jackson.version>2.12.7.1</jackson.version>
     </properties>
 
     <dependencies>
